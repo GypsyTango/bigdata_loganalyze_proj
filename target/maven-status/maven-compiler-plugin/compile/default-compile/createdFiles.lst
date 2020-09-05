@@ -1,0 +1,4 @@
+proj\logAnalyze\cdh\logClean\logReduce.class
+proj\logAnalyze\cdh\logClean\logMapper.class
+proj\logAnalyze\cdh\logClean\logClean.class
+proj\logAnalyze\cdh\logClean\logParser.class
